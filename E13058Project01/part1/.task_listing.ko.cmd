@@ -1,0 +1,1 @@
+cmd_/media/tj-ds/00BB-4605/E13058Project01/part1/task_listing.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /media/tj-ds/00BB-4605/E13058Project01/part1/task_listing.ko /media/tj-ds/00BB-4605/E13058Project01/part1/task_listing.o /media/tj-ds/00BB-4605/E13058Project01/part1/task_listing.mod.o

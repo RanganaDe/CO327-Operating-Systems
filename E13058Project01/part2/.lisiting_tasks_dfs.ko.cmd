@@ -1,0 +1,1 @@
+cmd_/media/tj-ds/00BB-4605/E13058Project01/part2/lisiting_tasks_dfs.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /media/tj-ds/00BB-4605/E13058Project01/part2/lisiting_tasks_dfs.ko /media/tj-ds/00BB-4605/E13058Project01/part2/lisiting_tasks_dfs.o /media/tj-ds/00BB-4605/E13058Project01/part2/lisiting_tasks_dfs.mod.o
